@@ -5,3 +5,6 @@
 
 # Test cases for Mobile App Testing
 [Open the test cases](https://github.com/Tokarevael/Mobile/blob/main/Test%20cases%20mobile.pdf)
+
+# Test run for Mobile App Testing
+[Open the test run](https://drive.google.com/file/d/1qNL82vhffuT2f8mVlDr_RXolkfuA1ObQ/view?usp=sharing)
