@@ -11,3 +11,6 @@
 
 # Bug reports for Mobile App Testing
 [Open the bug reports](https://github.com/Tokarevael/Mobile/blob/main/Bug%20Reports%20-%20Mobile%20Testing.xlsx)
+
+# Test report for Mobile App Testing
+[Open the test reports](https://github.com/Tokarevael/Mobile/blob/main/Test_report%20Mobile%20App.docx)
