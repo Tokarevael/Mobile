@@ -8,3 +8,6 @@
 
 # Test run for Mobile App Testing
 [Open the test run](https://drive.google.com/file/d/1qNL82vhffuT2f8mVlDr_RXolkfuA1ObQ/view?usp=sharing)
+
+# Bug reports for Mobile App Testing
+[Open the bug reports](https://github.com/Tokarevael/Mobile/blob/main/Bug%20Reports%20-%20Mobile%20Testing.xlsx)
