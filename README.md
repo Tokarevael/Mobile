@@ -14,3 +14,8 @@
 
 # Test report for Mobile App Testing
 [Open the test reports](https://github.com/Tokarevael/Mobile/blob/main/Test_report%20Mobile%20App.docx)
+
+# Traffic Intercept
+[Deleting different product](https://drive.google.com/file/d/1xbdVGQCujm3OWnhHc19-QBPfJwR7MIfA/view?usp=sharing)
+[Map local with picture](https://drive.google.com/file/d/1txMU23JYpPBhDPm3CGUMukw0fDiKO6l1/view?usp=sharing)
+[Screenshot with HTTPS from mobile](https://drive.google.com/file/d/1zCXvG3ikSPul2psh14H3ztOvpF7x4Od4/view?usp=drive_link)
