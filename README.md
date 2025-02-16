@@ -4,7 +4,7 @@
 
 Checklist for testing the main functionalities of the Task Management application  
 
-[Open the check list](https://docs.google.com/spreadsheets/d/1pZzbHruOA7Wh_dp1I-piMY_zo83fBeke/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Open the check list](https://github.com/Tokarevael/Mobile/blob/main/Check%20list%20mobile.xlsx)
 
 # Test cases for Mobile App Testing
 
